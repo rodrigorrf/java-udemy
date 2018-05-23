@@ -1,0 +1,17 @@
+package polimorfismo;
+
+public class ControleDeBonificacao {
+	private double totalDeBonus;
+	
+	
+	
+	public double getTotalDeBonus() {
+		return totalDeBonus;
+	}
+
+
+	public double calculaTotalDeBonus(double valor) {
+		return this.totalDeBonus = this.totalDeBonus + valor;
+	}
+
+}

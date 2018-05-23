@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="locadora.Filme"/>
+<fullyQualifiedTypeName name="banco.Conta"/>
+<fullyQualifiedTypeName name="bancoComRetorno.Funcionario"/>
+<fullyQualifiedTypeName name="relacionamentoDeClasses.Conta"/>
+<fullyQualifiedTypeName name="relacionamentoDeClasses.Cliente"/>
+<fullyQualifiedTypeName name="exercicioArray.Empresa"/>
+<fullyQualifiedTypeName name="exercicioArray.Funcionario"/>
+<fullyQualifiedTypeName name="GettersSetters.Cliente"/>
+<fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+<fullyQualifiedTypeName name="sobrecarga.construtores.Funcionario"/>
+<fullyQualifiedTypeName name="atributos.metodos.estaticos.Cliente"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="exercicio2.Funcionario"/>
+<fullyQualifiedTypeName name="heranca.empresa.Funcionario"/>
+<fullyQualifiedTypeName name="java.security.GeneralSecurityException"/>
+<fullyQualifiedTypeName name="heranca.empresa.Gerente"/>
+<fullyQualifiedTypeName name="polimorfismo.ControleDeBonificacao"/>
+<fullyQualifiedTypeName name="polimorfismo.Funcionario"/>
+<fullyQualifiedTypeName name="polimorfismo.Gerente"/>
+<fullyQualifiedTypeName name="polimorfismo.Supervisor"/>
+<fullyQualifiedTypeName name="reforcando.polimorfismo.Funcionario"/>
+<fullyQualifiedTypeName name="reforcando.polimorfismo.Gerente"/>
+<fullyQualifiedTypeName name="reforcando.polimorfismo.Vendedor"/>
+</qualifiedTypeNameHistroy>

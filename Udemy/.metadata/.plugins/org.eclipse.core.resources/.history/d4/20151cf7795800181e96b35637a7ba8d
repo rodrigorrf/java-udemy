@@ -1,0 +1,5 @@
+package heranca.Empresa;
+
+public class Gerente {
+
+}

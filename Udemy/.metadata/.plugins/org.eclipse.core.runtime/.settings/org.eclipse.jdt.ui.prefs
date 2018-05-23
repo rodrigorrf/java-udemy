@@ -1,0 +1,31 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="banco.Conta"><rhs name\="banco.Conta"/></lhs><lhs name\="bancoComRetorno.Funcionario"><rhs name\="bancoComRetorno.Funcionario"/></lhs><lhs name\="relacionamentoDeClasses.Cliente"><rhs name\="relacionamentoDeClasses.Cliente"/></lhs><lhs name\="exercicioArray.Funcionario"><rhs name\="exercicioArray.Funcionario"/></lhs><lhs name\="exercicioArray.Empresa"><rhs name\="exercicioArray.Empresa"/></lhs><lhs name\="sobrecarga.construtores.Funcionario"><rhs name\="sobrecarga.construtores.Funcionario"/></lhs><lhs name\="atributos.metodos.estaticos.Cliente"><rhs name\="atributos.metodos.estaticos.Cliente"/></lhs><lhs name\="java.util.Random"><rhs name\="java.util.Random"/></lhs><lhs name\="exercicio2.Funcionario"><rhs name\="exercicio2.Funcionario"/></lhs><lhs name\="heranca.empresa.Funcionario"><rhs name\="heranca.empresa.Funcionario"/><rhs name\="heranca.empresa.Gerente"/></lhs><lhs name\="heranca.empresa.Gerente"><rhs name\="heranca.empresa.Gerente"/></lhs><lhs name\="polimorfismo.ControleDeBonificacao"><rhs name\="polimorfismo.ControleDeBonificacao"/></lhs><lhs name\="polimorfismo.Gerente"><rhs name\="polimorfismo.Supervisor"/></lhs><lhs name\="polimorfismo.Funcionario"><rhs name\="polimorfismo.Supervisor"/></lhs><lhs name\="polimorfismo.Supervisor"><rhs name\="polimorfismo.Supervisor"/></lhs><lhs name\="reforcando.polimorfismo.Funcionario"><rhs name\="reforcando.polimorfismo.Gerente"/></lhs><lhs name\="reforcando.polimorfismo.Gerente"><rhs name\="reforcando.polimorfismo.Gerente"/></lhs><lhs name\="reforcando.polimorfismo.Vendedor"><rhs name\="reforcando.polimorfismo.Vendedor"/></lhs></history>
+content_assist_number_of_computers=24
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=13
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+sourceHoverBackgroundColor=255,255,225
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale=en_US
+spelling_locale_initialized=true
+spelling_problems_threshold=1000
+spelling_proposal_threshold=20
+spelling_user_dictionary=
+spelling_user_dictionary_encoding=
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
