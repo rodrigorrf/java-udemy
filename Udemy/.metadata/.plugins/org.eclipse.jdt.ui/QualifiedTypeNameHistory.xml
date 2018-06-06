@@ -14,13 +14,22 @@
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="exercicio2.Funcionario"/>
 <fullyQualifiedTypeName name="heranca.empresa.Funcionario"/>
-<fullyQualifiedTypeName name="java.security.GeneralSecurityException"/>
 <fullyQualifiedTypeName name="heranca.empresa.Gerente"/>
 <fullyQualifiedTypeName name="polimorfismo.ControleDeBonificacao"/>
 <fullyQualifiedTypeName name="polimorfismo.Funcionario"/>
 <fullyQualifiedTypeName name="polimorfismo.Gerente"/>
 <fullyQualifiedTypeName name="polimorfismo.Supervisor"/>
-<fullyQualifiedTypeName name="reforcando.polimorfismo.Funcionario"/>
 <fullyQualifiedTypeName name="reforcando.polimorfismo.Gerente"/>
 <fullyQualifiedTypeName name="reforcando.polimorfismo.Vendedor"/>
+<fullyQualifiedTypeName name="reforcando.polimorfismo.Funcionario"/>
+<fullyQualifiedTypeName name="exercicio1.Pessoa"/>
+<fullyQualifiedTypeName name="java.security.GeneralSecurityException"/>
+<fullyQualifiedTypeName name="exercicio1.Fornecedor"/>
+<fullyQualifiedTypeName name="exercicio2.campeonato.Pessoa"/>
+<fullyQualifiedTypeName name="java.sql.Array"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="exercicio2.campeonato.Jogador"/>
+<fullyQualifiedTypeName name="exercicio2.campeonato.Tecnico"/>
+<fullyQualifiedTypeName name="exercicio2.campeonato.Equipe"/>
+<fullyQualifiedTypeName name="exercicio2.campeonato.Partida"/>
 </qualifiedTypeNameHistroy>

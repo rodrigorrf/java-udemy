@@ -1,0 +1,19 @@
+package exercicio1;
+
+import java.security.GeneralSecurityException;
+
+public class Programa {
+
+	public static void main(String[] args) {
+		Cliente cliente = new Cliente();
+		
+		cliente.setNome("Rodrigo");
+		cliente.setCpf("123456789-00");
+		cliente.setEndereco("Rua 1");
+		
+		System.out.println(cliente.getNome());
+		System.out.println(cliente.getCpf());
+		System.out.println(cliente.getEndereco());
+	}
+
+}
