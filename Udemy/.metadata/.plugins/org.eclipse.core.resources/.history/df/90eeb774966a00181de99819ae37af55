@@ -5,7 +5,7 @@ public class Equipe {
 	private String nome;
 	private String cidade;
 	private Tecnico tecnico;
-	 Jogador jogadores[];
+	private Jogador jogadores[];
 	
 	public String getNome() {
 		return nome;

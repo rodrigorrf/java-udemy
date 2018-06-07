@@ -60,7 +60,7 @@ public class Programa {
 		jogador11.setDataNascimento("01/01/82");
 		jogador11.setPosicao("Goleiro");
 		
-		Jogador[] jogadores1 = new Jogador[11];
+		Jogador[] jogadores1 = new Jogador[10];
 		
 		Tecnico tecnico1 = new Tecnico();
 		tecnico1.nome = "tecnico1";
@@ -93,18 +93,7 @@ public class Programa {
 		System.out.println("Estadio: " + partida.getEstadio());
 		System.out.println("Data: " + partida.getData());
 		
-		System.out.println("==========Escalação==========");
-		/*for(Jogador j : equipe1.getJogadores()) {
-			System.out.println(j.nome + " - " + j.getPosicao());
-		}*/
-		
-		Equipe j = new Equipe();
-		j.jogadores = new Jogador [equipe1.getJogadores().length];
-		
-		for(int i = 0 ; i < equipe1.getJogadores().length; i ++) {
-			j.setJogadores(equipe1.getJogadores());
-			System.out.println(j.getNome());
-		}
+		rodrigo
 		
 	}
 

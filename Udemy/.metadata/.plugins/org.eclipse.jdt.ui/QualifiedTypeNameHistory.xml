@@ -28,8 +28,8 @@
 <fullyQualifiedTypeName name="exercicio2.campeonato.Pessoa"/>
 <fullyQualifiedTypeName name="java.sql.Array"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="exercicio2.campeonato.Jogador"/>
 <fullyQualifiedTypeName name="exercicio2.campeonato.Tecnico"/>
-<fullyQualifiedTypeName name="exercicio2.campeonato.Equipe"/>
 <fullyQualifiedTypeName name="exercicio2.campeonato.Partida"/>
+<fullyQualifiedTypeName name="exercicio2.campeonato.Equipe"/>
+<fullyQualifiedTypeName name="exercicio2.campeonato.Jogador"/>
 </qualifiedTypeNameHistroy>
