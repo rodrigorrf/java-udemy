@@ -18,7 +18,7 @@ public class Partida {
 		this.estadio = estadio;
 	}
 	public Equipe getEquipe(Equipe equipe) {
-		return this.equipe;
+		return equipe;
 	}
 	public void setEquipe(Equipe equipe) {
 		this.equipe = equipe;
